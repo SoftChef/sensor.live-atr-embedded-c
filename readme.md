@@ -20,13 +20,9 @@ sensor.live
 - Enable SATR on sensor.live, you will get root_ca.cert.pem, ca.cert.pem and ca.private_key.pem.
 - Put the pem files into ./certs directory.
 
-## Installation
-
-Steps:
-
 ## API Documentation
 
-#### generateDeviceCertificate(char *name)
+#### generateDeviceCertificate(char *thing_name)
 
 Generate device certificate.
 
