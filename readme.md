@@ -12,6 +12,7 @@ Environment
 
 Packages
 
+- Git clone this repository into your project folder and layout
 - AWS IoT SDK for embedded C https://github.com/aws/aws-iot-device-sdk-embedded-C
 - OpenSSL https://github.com/openssl/openssl
 
