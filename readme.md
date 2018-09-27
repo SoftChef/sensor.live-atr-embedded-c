@@ -9,7 +9,6 @@ This document will help your device connect to AWS IoT quickly. Mainly to speed 
 Environment
 
 - Git clone this repository into your project folder and layout
-- Create "certs" directory in your project folder
 
 Packages
 
