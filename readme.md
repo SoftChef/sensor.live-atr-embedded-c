@@ -8,11 +8,11 @@ This document will help your device connect to AWS IoT quickly. Mainly to speed 
 
 Environment
 
-- Create "certs" directory in your develop path.
+- Git clone this repository into your project folder and layout
+- Create "certs" directory in your project folder
 
 Packages
 
-- Git clone this repository into your project folder and layout
 - AWS IoT SDK for embedded C https://github.com/aws/aws-iot-device-sdk-embedded-C
 - OpenSSL https://github.com/openssl/openssl
 
